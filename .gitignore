@@ -1,4 +1,5 @@
 .DS_Store
+share/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

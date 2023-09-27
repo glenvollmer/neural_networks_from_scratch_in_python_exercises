@@ -1,10 +1,6 @@
 import numpy as np
 
 def numpy_layers():
-    '''
-        Same single layer of neurons with numpy dot multiplication
-    '''
-
     inputs = [
         [1.0, 2.0, 3.0, 2.5],
         [2.0, 5.0, -1.0, 2.0],

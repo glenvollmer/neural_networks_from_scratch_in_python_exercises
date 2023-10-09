@@ -7,7 +7,7 @@ def matrix_product_example():
 
     a = [1, 2, 3]
     b = [2, 3, 4]
-    
+
     a = np.array([a])
     b = np.array([b]).T
 
